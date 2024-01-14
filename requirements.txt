@@ -1,0 +1,10 @@
+fastapi
+typing
+"uvicorn[standard]"
+python-multipart
+fastapi-sessions
+pydantic
+requests
+pandas
+numpy 
+openpyxl
